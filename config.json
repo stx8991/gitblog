@@ -1,5 +1,5 @@
 {
-    "name": "imuncle",
+    "name": "stx8991",
     "repo": "gitblog",
     "client_id": "6be156ba645fa3cd085b",
     "client_secret": "5103dfad4f329dd4a3d2abfbade09e7b5386ec3a",
@@ -14,7 +14,7 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io"
+        "stx8991" : "https://stx8991.github.io"
     },
     "icons": {
         "Github" : {
